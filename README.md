@@ -1,13 +1,6 @@
 # DatabricksBrasil
-Eventos da comunidade DataBricks Brasil (https://www.meetup.com/databricks-brasil)
+Events from the community DataBricks Brasil (https://www.meetup.com/databricks-brasil)
 
-# Azure Data Factory
-## Ingestion
-The following dummy API was used to ingest data for this use case:
+Files are organised under the folder with the data of the event.
 
-https://dummyapi.io/data/api/user?limit=10
-
-https://dummyapi.io/data/api/post?limit=10
-
-When calling the REST API, inform your app-id (available after registering on the website)
 
